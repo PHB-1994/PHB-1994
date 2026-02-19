@@ -62,3 +62,55 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
     
+<h2>💻 Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>주제</th>
+      <th>성격</th>
+      <th>역할</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>머묾</td>
+      <td>검색 및 지도 기반 숙소 예약 어플리케이션</td>
+      <td>팀 <br>프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a>
+      </td>
+    </tr>
+    <tr>
+      <td>TICKETNOW</td>
+      <td>사용자가 공연·전시·이벤트 티켓을 쉽고 빠르게 예매할 수 있도록 구현된 <br> 웹 기반 티켓 예매 서비스</td>
+      <td>팀 <br>프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/full-stack-bootcamp-team-project">Github</a><br />
+        🔗 <a href="http://43.201.71.58:8080/">Website</a>
+      </td>
+    </tr>
+    <tr>
+      <td>instagram-clone</td>
+      <td>인스타그램 웹사이트를 클론해서 만든 프로젝트</td>
+      <td>개인 <br>프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/tiradovi/instagram-clone">Github</a><br>
+        🔗 <a href="https://instagram-clone-ashy-nine.vercel.app/login">Website</a>
+      </td>
+    </tr>
+    <tr>
+      <td>nodab-website</td>
+      <td>옷 구매를 위한 옷 가이드 쇼핑몰</td>
+      <td>개인 <br>프로젝트</td>
+      <td>프론트엔드<br>Front-end</td>
+      <td>
+        🔗 <a href="https://github.com/PHB-1994/Project_Nodab">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
