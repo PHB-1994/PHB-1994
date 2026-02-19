@@ -121,5 +121,5 @@
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
   &nbsp;
-  <a href="mailto:sunvit9@gmail.com">sunvit9@gmail.com</a>
+  <a href="mailto:gudqls0991@gmail.com">gudqls0991@gmail.com</a>
 </p>
