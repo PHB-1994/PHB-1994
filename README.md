@@ -12,6 +12,11 @@ Java · Spring Boot 기반으로 REST API를 설계하고,
 가치를 두고 성장하고 있습니다.
 </p>
 
+## 👀 About Me
+#### 🙋‍♂️ Backend Developer focused on API & Data Flow
+#### 🔥 Java · Spring Boot 기반 서버 구조 설계
+#### 🚀 Interested in scalable and reliable backend systems
+
 <h2> 🛠️ Tech Stacks </h2>
 <h4> Front-end </h4>
   
