@@ -1,6 +1,18 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=006cd1&height=120&text=Hyung%20Bin%20Park&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
+
+<h3>Hi, I'm Hyung Bin Park 👋</h3>
+
+<p>
+안정적인 서버 구조와 데이터 흐름을 고민하는 백엔드 개발자입니다.<br>
+Java · Spring Boot 기반으로 REST API를 설계하고,
+요청–서버–DB까지 이어지는 전체 처리 흐름을 중심으로 개발합니다.<br>
+운영 중 발생하는 문제를 구조적으로 분석하고 개선하는 과정에
+가치를 두고 성장하고 있습니다.
+</p>
+
+
 <h3>Hello, My GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
