@@ -117,3 +117,6 @@
     </tr>
   </tbody>
 </table>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+<a href=mailto:gudqls0991@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gudqls0991@gmail.com"> </a>
