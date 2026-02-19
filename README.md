@@ -118,6 +118,7 @@
   </tbody>
 </table>
 
+<h2>✉️ Contact Me</h2>
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
   &nbsp;
