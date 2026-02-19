@@ -99,8 +99,8 @@
       <td>개인 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/tiradovi/instagram-clone">Github</a><br>
-        🔗 <a href="https://instagram-clone-ashy-nine.vercel.app/login">Website</a>
+        🔗 <a href="https://github.com/PHB-1994/instagram-clone">Github</a><br>
+        🔗 <a href="https://insta-front-bay.vercel.app/login">Website</a>
       </td>
     </tr>
     <tr>
