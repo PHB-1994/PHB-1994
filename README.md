@@ -1,13 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=006cd1&height=120&text=Hyung%20Bin%20Park&animation=fadeIn&fontColor=000000&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요 </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <h2> 🛠️ Tech Stacks </h2>
+</div>
+<h2> 🛠️ Tech Stacks </h2>
 <h4> Front-end </h4>
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,9 +29,6 @@
 
 <h4> AI/ML </h4>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logoColor=white)
 
@@ -52,14 +43,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS Security Group](https://img.shields.io/badge/AWS%20Security%20Group-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![CronJob](https://img.shields.io/badge/CronJob-4A4A4A?style=for-the-badge&logo=linux&logoColor=white)
 
 <h4> Tools </h4>
 
@@ -73,6 +61,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-</div>
-</div>
     
